@@ -57,3 +57,6 @@ Unfortunately, if you implement the above steps, we won't be so delighted with t
 In a nutshell, the problems comes form the fact that at each time step during training we are using the same weights to calculate y_t. That multiplication is also done during back-propagation. The further we move backwards, the bigger or smaller our error signal becomes. This means that the network experiences difficulty in memorising words from far away in the sequence and makes predictions based on only the most recent ones.
 
 
+## Sitography
+1) *Toward Data Science* ,https://towardsdatascience.com/understanding-rnn-and-lstm-f7cdf6dfc14e
+
