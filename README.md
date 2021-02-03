@@ -58,5 +58,5 @@ In a nutshell, the problems comes form the fact that at each time step during tr
 
 
 ## Sitography
-1) *Toward Data Science* ,https://towardsdatascience.com/understanding-rnn-and-lstm-f7cdf6dfc14e
+1) *Towards Data Science* ,https://towardsdatascience.com/understanding-rnn-and-lstm-f7cdf6dfc14e
 
